@@ -3,8 +3,7 @@ terraform {
         organization = "hausdorff-corp"
 
         workspaces {
-            tags = ["networking", "source:cli"]
-            name= "hausdorff"
+            name= "terraform-cloud"
         }
     }
 }
