@@ -14,3 +14,7 @@ terraform {
   }
 }
 ```
+## Format `.tf` files
+
+Use the command `terraform fmt` in order to format all `.tf` files in the current directory
+
